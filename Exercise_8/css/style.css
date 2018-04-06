@@ -1,0 +1,16 @@
+body{
+	width:80%;
+	margin: auto;
+}
+
+nav{
+	width: 80%;
+	padding: 20px;
+	background-color: #ddd;
+	margin: auto;
+}
+
+nav a{
+	padding: 20px;
+	text-decoration: none;
+}
